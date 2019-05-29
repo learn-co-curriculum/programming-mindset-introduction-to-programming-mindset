@@ -9,7 +9,7 @@ problems in code.
 We'll cover topics that include answers to these questions:
 
 - What makes an effective programmer?
-- What does a progammer's mindset look like?
+- What does a programmer's mindset look like?
 - How does the Flatiron Programming Process help solve programming problems?
 - What's the best way to ask questions and learn from feedback?
 - What are some strategies for getting unstuck when working on a problem?
